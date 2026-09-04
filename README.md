@@ -4,7 +4,7 @@
 
 I build decision-support systems with **SQL, R, Tidyverse, Excel, Shiny, interpretable modeling, and AI-assisted analytical validation**.
 
-My work begins with the decision behind a metric request, locks the measurement design before execution, validates important results through independent analytical paths, and ends with an evidence-bounded recommendation.
+My work begins with the decision behind a metric request, locks the measurement design before execution, validates results with explicit quality checks and documented evidence boundaries, and ends with an evidence-bounded recommendation.
 
 ```mermaid
 flowchart LR
@@ -18,7 +18,7 @@ flowchart LR
 
 | Project | What it demonstrates | Core tools |
 |---|---|---|
-| [**FulfillIQ**](https://github.com/markjamesc/fulfilliq) | End-to-end seller-performance decision system: stakeholder framing, locked KPI design, MySQL analysis, executed R validation, Excel evidence, three-AI review, and an operational recommendation | MySQL, SQL, R, Tidyverse, Excel |
+| [**FulfillIQ**](https://github.com/markjamesc/fulfilliq) | Seller-performance decision case: stakeholder framing, locked KPI design, a reviewed MySQL analysis specification, R validation of the committed seller export, Excel evidence, three-AI review, and an operational recommendation | MySQL, SQL, R, Tidyverse, Excel |
 | [**AI-Augmented Bitcoin Proxy Analysis**](https://github.com/markjamesc/ai-augmented-bitcoin-proxy-analysis) | Dilution-aware comparison of six public Bitcoin proxies across three scenarios, with reproducible model checks and decision-focused interpretation | Jupyter, Excel, scenario modeling, validation |
 | [**Five-Stage Analyst Workflow**](https://github.com/markjamesc/ai-augmented-analyst-workflow) | A complete framework for moving from a vague stakeholder request to validated evidence and a proportionate recommendation | Decision framing, KPI design, AI quality control |
 | [**R Workflow Engine**](https://github.com/markjamesc/r-workflow-engine) | A one-file specification for generating structured tidyverse workflows with preparation, analysis, assurance, and publication stages | R, Tidyverse, Excel, Shiny |
@@ -29,7 +29,7 @@ flowchart LR
 - Translate metric requests into explicit business decisions.
 - Define hypotheses, KPIs, grain, comparison groups, confounders, and failure conditions before writing SQL.
 - Control joins, denominators, nulls, dates, and boundary conditions explicitly.
-- Reconcile important metrics through independently constructed SQL and R paths.
+- Validate important metrics with explicit QA checks, sensitivity analysis, and documented evidence boundaries.
 - Use AI models as specialized builders and critics rather than as an unreviewed source of truth.
 - Separate facts, interpretation, uncertainty, and recommendations.
 - Publish evidence in formats stakeholders can use: Excel, dashboards, reports, and presentations.
