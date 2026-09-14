@@ -22,7 +22,6 @@ flowchart LR
 | [**AI-Augmented Bitcoin Proxy Analysis**](https://github.com/markjamesc/ai-augmented-bitcoin-proxy-analysis) | Dilution-aware comparison of six public Bitcoin proxies across three bullish scenarios, with model checks and conditional interpretation | Jupyter, Excel, scenario modeling |
 | [**AI-Augmented Analytics Portfolio**](https://github.com/markjamesc/ai-augmented-analytics) | Compact demonstrations of Shiny dashboarding, data-grounded AI reporting, and interpretable classification | R, Shiny, OpenAI API, tidymodels |
 | [**Five-Stage Analyst Workflow**](https://github.com/markjamesc/ai-augmented-analyst-workflow) | Framework for moving from a vague stakeholder request to validated evidence and a proportionate recommendation | Decision framing, KPI design, AI quality control |
-| [**R Workflow Engine**](https://github.com/markjamesc/r-workflow-engine) | A one-file specification for generating structured tidyverse workflows with assurance and publication stages | R, Tidyverse, Excel, Shiny |
 
 **Start with FulfillIQ 2.0:** [case study](https://github.com/markjamesc/fulfilliq-2.0#executive-result) · [SQL/R reconciliation record](https://github.com/markjamesc/fulfilliq-2.0/blob/main/docs/stage-04-execution-validation/02_EXACT_RECON_FREEZE.md) · [final interpretation](https://github.com/markjamesc/fulfilliq-2.0/blob/main/docs/stage-05-interpretation/04_STAGE5_DECISION_EVALUATION.md).
 
